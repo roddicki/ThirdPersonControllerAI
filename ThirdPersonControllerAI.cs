@@ -263,5 +263,12 @@ namespace StarterAssets
 			// when selected, draw a gizmo in the position of, and matching radius of, the grounded collider
 			Gizmos.DrawSphere(new Vector3(transform.position.x, transform.position.y - GroundedOffset, transform.position.z), GroundedRadius);
 		}
+
+		// footstep function called by the animation event on the ThirdPersonController/Character/Animations
+		public void OnFootstep()
+		{
+			// play some audio // do stuff every footstep
+			Debug.Log("footstep");
+		}
 	}
 }
