@@ -6,6 +6,8 @@ https://github.com/ergin3d/ThirdPersonControllerAI
 ## How to use  
 The modified version of ThirdPersonController to control AI Characters using third person controller provided by Unity.
 Video : https://www.youtube.com/watch?v=x4TwKOVMfnk
+Video with audio: https://uwe.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=69ad9dec-60cf-41a5-9c17-b07700a2bf2a  
+
 - Start A New Project from Unity Hub and Select Core / Third Person
 - Open PlayGround from Scenes (if it is not already open)
 - Delete big Ground from the Scene (Environment > Greybox > Primitives > Ground)
