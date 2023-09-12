@@ -3,6 +3,7 @@
 ## Forked from Gokhan Ergin
 https://github.com/ergin3d/ThirdPersonControllerAI  
 
+## How to use
 The modified version of ThirdPersonController to control AI Characters using third person controller provided by Unity.
 Video : https://www.youtube.com/watch?v=x4TwKOVMfnk
 - Start A New Project from Unity Hub and Select Core / Third Person
